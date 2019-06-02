@@ -130,28 +130,6 @@ __NOTE:__ While some code has already been implemented to get you started, you w
 
 Your project will be reviewed by a Udacity reviewer against the Computer Vision project [rubric](#rubric).  Review this rubric thoroughly, and self-evaluate your project before submission.  All criteria found in the rubric must meet specifications for you to pass.
 
-
-## Project Submission
-
-When you are ready to submit your project, collect the following files and compress them into a single zip archive for upload:
-
- - The `CV_project.ipynb` file with fully functional code. All code cells should be executed and displaying output, and all questions should be answered.
- - An HTML *or* PDF export of the project notebook with the name `report.html` or `report.pdf`.
- - Any additional images used for the project that were not supplied to you for the project. 
- - **Please do not include the project data sets in the data/ folder**. They are too big and only your executed notebook code and text will be evaluated.
-
-Alternatively, your submission could consist of only the **GitHub link** to your repository.
-
-<a id='rubric'></a>
-## Project Rubric
-
-#### Files Submitted
-
-| Criteria       		|     Meets Specifications	        			            | 
-|:---------------------:|:---------------------------------------------------------:| 
-| Submission Files      |  `CV_project.ipynb`--> all completed python functions requested in the main notebook `CV_project.ipynb` **TODO** items should be completed.		|
-
-
 #### Step 1:  Add eye detections to the face detection setup
 | Criteria       		|     Meets Specifications	        			            | 
 |:---------------------:|:---------------------------------------------------------:| 
